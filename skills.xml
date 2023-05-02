@@ -1,0 +1,21 @@
+<Skills>
+<Basic_theory>What is testing, bug reports,documentation,types,SDLC,STLC</Basic_theory>
+<Client_server>Client-server architecture</Client_server>
+<Request_methods_to_server>HTTP<Request_methods_to_server>
+<Structure>JSON,XML</Structures>
+<Dev_Tools_of_web_browsers>Google Chrome,FireFox</Dev_Tools_of_web_browsers>
+<testing>Mobile</testing>
+<ADB>android device management</ADB>
+<Setup>proxy and vpn on iOS and Android</Setup>
+<Interception_(sniffing)_of_mobile_traffic>Charles and Fiddler on iOS and Android</Interception_(sniffing)_of_mobile_traffic>
+<Command line_(terminal)_Linux>copy, create, view, move files on non-GUI servers</Command line_(terminal)_Linux>
+<Basic_bash_scripting>automating routine tasks on the server</Basic_bash_scripting>
+<Access>to remote servers</Access>
+<SQL_Basics>Create, Delete, Drop, Insert Into, Select, From, Where, Join</SQL_Basics>
+<Database>Postgres, installation, configuration and use</Database>
+<Load_testing>Jmeter</Load_testing>
+<Development_methodology>Scrum</Development_methodology>
+<Python>Learning the basics. Creating a client-server application</Python>
+<API_testing>via Postman (JS, API autotests)</API_testing>
+<Removing_and_reading_logs>from an external server</Removing_and_reading_logs>
+</Skills>
